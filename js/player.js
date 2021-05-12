@@ -73,8 +73,15 @@ class Musics {
                 songUrl: './songs/グランドエスケープ (Movie edit) - 三浦透子.mp3',
                 imageUrl: './images/songs/天气之子.jpg'
             },
-			{
+{
                 id: 8,
+                title: '踏山河',
+                singer: 'な(movie edit) - RADWIMPS',
+                songUrl: 'https://m7.music.126.net/20210512113124/f85fb644dad0e2fb89b25a3fc5e8c151/ymusic/0109/0608/5352/6c296936211be042d2e9d816a4a3bd35.mp3',
+                imageUrl: './images/songs/你的名字.jpg'
+            },
+			{
+                id: 9,
                 title: 'ふたたびの、雨 - RADWIMPS',
                 singer: 'ふたたびの、雨 - RADWIMPS',
                 songUrl: './songs/ふたたびの、雨 - RADWIMPS.mp3',
